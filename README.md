@@ -1,1 +1,1 @@
-Welcome BMSIT! Sathvik,shashank,suprith,vinod
+This is a simple hello world program using python
